@@ -1,0 +1,13 @@
+{
+  "changelists": [
+    {
+      "name": "Default",
+      "files": [
+        "workflows/snake.yml",
+        ".vscode/changelists.json",
+        "README.md"
+      ]
+    }
+  ],
+  "active": "Default"
+}
