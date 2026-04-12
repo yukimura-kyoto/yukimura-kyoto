@@ -7,7 +7,10 @@
 ---
 
  Early Starting on Dev rn.
-  
+
+ Already tried dev on Unity using C# and now going for Java
+
+---
 <p>
 
 <picture>
