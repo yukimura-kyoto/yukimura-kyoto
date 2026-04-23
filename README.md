@@ -14,6 +14,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=yukimura-kyoto&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=9" height="150" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yukimura-kyoto&theme=high-contrast&area=true&hide_border=true" height="300"/>
+</div>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yukimura-kyoto&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
