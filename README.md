@@ -1,20 +1,20 @@
 <div align="center">
-  <img width="100%" alt="banner" src="https://github.com/user-attachments/assets/47f21f09-086a-4b57-966a-2fc30dba2331" />
-  <br>
-  
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&width=750&lines=%22X%2C+you+still+remember+the+code+of+our+former+employer%2C+right%3F%22;%22I+remember+that+it+always+ended+in+death.%22;It's+you+and+me!;Breathe%2C+then+commit.;You+will+tell+no+one%2C+not+a+soul...;%22Objectively%2C+no.+How+are+you+going+to+the+moon%3F%22;%22Factually...+I+COULD.%22" alt="Typing SVG" />
+  <a href="https://yk.is-a.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/◈%20PORTFOLIO-yk.is--a.dev-black?style=for-the-badge" alt="Portfólio">
 </a>
-
 </div>
 
 ---
+<!--- Banner Inicial--->
+<img width="1028" height="310" alt="image" src="https://github.com/user-attachments/assets/5ab40a77-450f-4813-b094-04d7d698bd6f" />
 
-### 👤 Profile: The Independent Agent
+---
 
-<img align="right" width="300px" alt="fire keeper" src="https://github.com/user-attachments/assets/f545ca9b-841b-46bd-bc1f-e8e6a0bb370d" />
+<!-- Perfil -->
 
-```
+<img align="right" width="300px" alt="fire keeper" src="https://github.com/user-attachments/assets/96460f11-728b-4e85-b967-26131ad917ee" />
+
+```rust
 yukimurakyoto@agent
 OS: Arch Linux (CachyOS)
 KERNEL: Hyprland (Wayland)
@@ -25,12 +25,6 @@ LANGS: Lua, C++, Java, C#, HTML/CSS
 FUTURE: Sucess is my only option. 
 ```
 
-
-<br clear="right"/>
-
----
-
-### 🔧 The Arsenal (Tech Stack)
 <p align="center">
 
 | Category | Tools |
@@ -48,33 +42,35 @@ FUTURE: Sucess is my only option.
   <img src="https://img.shields.io/badge/Hyprland-33CCFF?style=for-the-badge&logo=hyprland&logoColor=white" />
 </p>
 
-<div align="center">
+<br clear="right"/>
 
+<!-- Visualizações de Perfil--->
+<div align="center">
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=yukimura-kyoto&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
-
 </div>
 
 ---
 
+<!--- Teiko Part --->
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yukimura-kyoto&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=9" height="150" />
+  <p align="center">
+    <h2>Teiko</h2>
+    <img src="https://i.pinimg.com/1200x/79/e1/a5/79e1a5271ba82cdb574cfa0fb0ee6256.jpg" alt="Collabs - Kuroko no Basket"><br><br>
+    <a href="https://github.com/Keven-zeshi">Kise (#8)</a> •
+    <a href="https://github.com/nick120q">Kuroko (#15)</a> •
+    <a href="https://github.com/Keven-zeshi">Midorima (#7)</a> •
+    <a href="https://github.com/yukimura-kyoto">Akashi (#4)</a> •
+    <a href="https://github.com/redzzxzs">Murasakibara (#5)</a> •
+    <a href="https://github.com/Osanttw">Aomine (#6)</a> •
+    <a href="https://github.com/petx4">Shōgo (#8)</a>
+  </p>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yukimura-kyoto&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!--- Larp --->
 ---
-<p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yukimura-kyoto/yukimura-kyoto/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yukimura-kyoto/yukimura-kyoto/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/yukimura-kyoto/yukimura-kyoto/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
 <div align="center">
-
 *† 𝙸 𝚜𝚑𝚊𝚕𝚕 𝚜𝚞𝚛𝚎𝚕𝚢 𝚏𝚒𝚗𝚍 𝚝𝚑𝚊𝚝 𝚠𝚑𝚒𝚌𝚑 𝙸 𝚜𝚎𝚎𝚔 †*
-
 </div>
