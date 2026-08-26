@@ -6,7 +6,7 @@
 
 ---
 <!--- Banner Inicial--->
-<img width="1028" height="310" alt="image" src="https://github.com/user-attachments/assets/5ab40a77-450f-4813-b094-04d7d698bd6f" />
+<img width="1028" max-width="100%" alt="image" src="https://github.com/user-attachments/assets/237fc6b6-f742-4205-b0e1-b0e9255e2cb9" />
 
 ---
 
