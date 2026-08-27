@@ -12,7 +12,7 @@
 
 <!-- Perfil -->
 
-<img align="right" width="300px" max-widget="100%" alt="fire keeper" src="https://github.com/user-attachments/assets/96460f11-728b-4e85-b967-26131ad917ee" />
+<img align="right" width="300px" alt="fire keeper" src="https://github.com/user-attachments/assets/96460f11-728b-4e85-b967-26131ad917ee" />
 
 ```rust
 yukimurakyoto@agent
