@@ -4,11 +4,12 @@
 </a>
 </div>
 
----
-<!--- Banner Inicial--->
-<img width="1028" max-width="100%" alt="image" src="https://github.com/user-attachments/assets/237fc6b6-f742-4205-b0e1-b0e9255e2cb9" />
 
----
+<!--- Banner Inicial--->
+<h1 align="center"></h1>
+<br>
+<img width="1028" max-width="100%" alt="image" src="https://github.com/user-attachments/assets/237fc6b6-f742-4205-b0e1-b0e9255e2cb9" />
+<h1 align="center"></h1>
 
 <!-- Perfil -->
 
@@ -16,33 +17,31 @@
 
 ```rust
 yukimurakyoto@agent
-OS: Arch Linux (CachyOS)
-KERNEL: Hyprland (Wayland)
-SHELL: Shell Scripting (Learning)
-UPTIME: Student @ SENAI Suíço-Brasileiro
+OS: NixOS/Windows 11
+KERNEL: dwm
+UPTIME: Student @ SENAI
 IDE: NeoVim, VSCode, IntelliJ
-LANGS: Lua, C++, Java, C#, HTML/CSS
-FUTURE: Sucess is my only option. 
+LANGS: Lua, C++, C#, Java, Go, Rust, Bash
+FUTURE: Success is my only option. 
 ```
-
+<div align="center">
 <p align="center">
 
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | `Lua`, `Java`, `C#`, `C++`, `HTML/CSS`, `Shell Script` |
-| **Editors** | `NeoVim` (for the soul), `VSCode`, `IntelliJ` |
-| **OS** | `Arch Linux` (CachyOS) + `Hyprland` |
+| **Languages** | `Lua`, `Java`, `C#`, `C++`, `Go`,`Rust`,`Rust`  |
+| **Editors** | `NeoVim`, `VSCode`, `IntelliJ` |
+| **OS** | `NixOS` + `dmw` |
 | **VCS** | `Git` |
 
 </p>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
   <img src="https://img.shields.io/badge/Hyprland-33CCFF?style=for-the-badge&logo=hyprland&logoColor=white" />
 </p>
-
-<br clear="right"/>
 
 <!-- Visualizações de Perfil--->
 <div align="center">
@@ -60,7 +59,7 @@ FUTURE: Sucess is my only option.
     <img src="https://i.pinimg.com/1200x/79/e1/a5/79e1a5271ba82cdb574cfa0fb0ee6256.jpg" alt="Collabs - Kuroko no Basket"><br><br>
     <a href="https://github.com/Keven-zeshi">Kise (#8)</a> •
     <a href="https://github.com/nick120q">Kuroko (#15)</a> •
-    <a href="https://github.com/Keven-zeshi">Midorima (#7)</a> •
+    <a href="https://github.com/taletopz">Midorima (#7)</a> •
     <a href="https://github.com/yukimura-kyoto">Akashi (#4)</a> •
     <a href="https://github.com/redzzxzs">Murasakibara (#5)</a> •
     <a href="https://github.com/Osanttw">Aomine (#6)</a> •
